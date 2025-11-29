@@ -67,7 +67,3 @@ I'm passionate about **AI, Machine Learning, Data Engineering, and building inte
 ## ⚡ Fun Fact
 I combine **AI, ML, and Web Development** to create **smart, real-world solutions** that make life faster, easier, and more interactive! 🌟  
 
----
-
-![Jamaica's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamaica-salem&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaica-salem&layout=compact&theme=radical)  
