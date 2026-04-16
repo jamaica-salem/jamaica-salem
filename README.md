@@ -124,7 +124,7 @@ I'm a developer who bridges **AI/ML research** with **production-ready web appli
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jamaica-salem&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jamaica-salem&theme=tokyonight&no-frame=true&row=1&column=7&t=1" alt="Trophies"/>
 </div>
 
 </div>
