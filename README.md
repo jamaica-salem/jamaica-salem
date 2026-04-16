@@ -121,12 +121,6 @@ I'm a developer who bridges **AI/ML research** with **production-ready web appli
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions"/>
 </div>
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://trophy.gitprofile.app/api?username=jamaica-salem&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</div>
-
 </div>
 
 ---
