@@ -177,8 +177,6 @@ while alive:
     repeat()
 ```
 
-*229 commits in 2026 · 31 repos contributed to · still going 🚀*
-
 ![Profile Views](https://visitcount.itsvg.in/api?id=jamaica-salem&label=Profile%20Views&color=6&icon=5&pretty=true)
 
 </div>
