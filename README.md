@@ -22,9 +22,9 @@
 I'm a developer who bridges **AI/ML research** with **production-ready web applications**. I love turning complex data problems into elegant, interactive systems.
 
 - 🔭 Building **autocorrect & intelligent search APIs** in production
-- 🌱 Deep-diving into **NLP pipelines**, **fuzzy matching**, and **spelling correction**  
-- ⚡ Contributed to **31 repositories** across diverse tech stacks  
-- 🌏 Based in the Philippines · Open to remote collaboration  
+- 🌱 Deep-diving into **NLP pipelines**, **fuzzy matching**, and **spelling correction**
+- ⚡ Contributed to **31 repositories** across diverse tech stacks
+- 🌏 Based in the Philippines · Open to remote collaboration
 - 💬 Ask me about **Python backends**, **ML integration**, or **Flask + Docker**
 
 ---
@@ -96,30 +96,26 @@ I'm a developer who bridges **AI/ML research** with **production-ready web appli
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jamaica-salem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Jamaica's GitHub Stats"/>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=jamaica-salem&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Jamaica's GitHub Stats"/>
     </td>
-    <td rowspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamaica-salem&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="Top Languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=jamaica-salem&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamaica-salem&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamaica-salem&theme=tokyonight&langs_count=8&layout=compact&hide_border=true" alt="Top Languages"/>
     </td>
   </tr>
 </table>
 
+### 🔥 Streak
+
+<img src="https://streak-stats.demolab.com/?user=jamaica-salem&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+
+### 📅 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jamaica-salem&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
+
 ### 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions"/>
-</div>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions"/>
 
 </div>
 
@@ -171,6 +167,6 @@ while alive:
     repeat()
 ```
 
-![Profile Views](https://hits.sh/github.com/jamaica-salem.svg?label=Profile+Views&color=6e40c9&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=jamaica-salem&label=Profile%20Views&color=blueviolet&style=flat-square)
 
 </div>
