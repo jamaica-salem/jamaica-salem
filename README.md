@@ -177,6 +177,6 @@ while alive:
     repeat()
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=jamaica-salem&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Profile Views](https://hits.sh/github.com/jamaica-salem.svg?label=Profile+Views&color=6e40c9&style=flat-square)
 
 </div>
