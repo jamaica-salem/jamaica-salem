@@ -11,7 +11,7 @@
 
 **`Full-Stack Developer · AI/ML Engineer · Data Enthusiast`**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Building+AI-powered+real-world+solutions+%F0%9F%A4%96;Python+%7C+Flask+%7C+React+%7C+Vue.js+developer;Machine+Learning+%7C+Computer+Vision+%7C+NLP;229+commits+and+counting+in+2026...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Building+AI-powered+real-world+solutions+%F0%9F%A4%96;Python+%7C+Flask+%7C+React+%7C+Vue.js+developer;Machine+Learning+%7C+Computer+Vision+%7C+NLP;31+projects+and+counting+in+2026...)](https://git.io/typing-svg)
 
 </div>
 
