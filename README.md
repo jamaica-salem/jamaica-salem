@@ -127,8 +127,8 @@ I'm a developer who bridges **AI/ML research** with **production-ready web appli
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| 🔤 **Autocorrect & Search API** | Flask · SymSpell · RapidFuzz · MariaDB · Docker | Production NLP pipeline with dual-path correction (ASCII + non-ASCII), translation cache, and fuzzy matching |
-| 🌐 **Full-Stack Web Apps** | Django · Vue.js · React · Laravel | End-to-end web applications built for clients under Fuzed Electrical Solutions |
+| 🤖 **AI Engineering** | RAG · Embeddings · Vector DBs · Tool Calling · Evals · FastAPI/Flask · Docker | Production apps and tools with retrieval pipelines, caching, observability, and quality evaluation |
+| 🌐 **Full-Stack Web Apps** | Django · Vue.js · React · Laravel | End-to-end web applications built for clients and projects |
 | 🤖 **ML Pipelines** | TensorFlow · PyTorch · OpenCV | Computer vision and predictive analytics systems |
 | 📊 **Data Engineering** | Pandas · SQL · Jupyter · Azure | ETL pipelines and data processing workflows |
 
