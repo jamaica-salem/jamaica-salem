@@ -17,19 +17,19 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I'm a developer who bridges **AI/ML research** with **production-ready web applications**. I love turning complex data problems into elegant, interactive systems.
 
-- 🔭 Building **autocorrect & intelligent search APIs** in production
-- 🌱 Deep-diving into **NLP pipelines**, **fuzzy matching**, and **spelling correction**
-- ⚡ Contributed to **31 repositories** across diverse tech stacks
-- 🌏 Based in the Philippines · Open to remote collaboration
-- 💬 Ask me about **Python backends**, **ML integration**, or **Flask + Docker**
+- Building **autocorrect & intelligent search APIs** in production
+- Deep-diving into **NLP pipelines**, **fuzzy matching**, and **spelling correction**
+- Contributed to **31 repositories** across diverse tech stacks
+- Based in the Philippines · Open to remote collaboration
+- Ask me about **Python backends**, **ML integration**, or **Flask + Docker**
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <details open>
 <summary><b>🐍 Core Languages</b></summary>
@@ -88,7 +88,7 @@ I'm a developer who bridges **AI/ML research** with **production-ready web appli
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -105,15 +105,15 @@ I'm a developer who bridges **AI/ML research** with **production-ready web appli
   </tr>
 </table>
 
-### 🔥 Streak
+### Streak
 
 <img src="https://streak-stats.demolab.com/?user=jamaica-salem&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak"/>
 
-### 📅 Contribution Graph
+### Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jamaica-salem&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake eating contributions"/>
 
@@ -121,20 +121,20 @@ I'm a developer who bridges **AI/ML research** with **production-ready web appli
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 > *Selected work across AI/ML, backend APIs, and full-stack development*
 
 | Project | Stack | Description |
 |--------|-------|-------------|
-| 🤖 **AI Engineering** | RAG · Embeddings · Vector DBs · Tool Calling · Evals · FastAPI/Flask · Docker | Production apps and tools with retrieval pipelines, caching, observability, and quality evaluation |
-| 🌐 **Full-Stack Web Apps** | Django · Vue.js · React · Laravel | End-to-end web applications built for clients and projects |
-| 🤖 **ML Pipelines** | TensorFlow · PyTorch · OpenCV | Computer vision and predictive analytics systems |
-| 📊 **Data Engineering** | Pandas · SQL · Jupyter · Azure | ETL pipelines and data processing workflows |
+| **AI Engineering** | RAG · Embeddings · Vector DBs · Tool Calling · Evals · FastAPI/Flask · Docker | Production apps and tools with retrieval pipelines, caching, observability, and quality evaluation |
+| **Full-Stack Web Apps** | Django · Vue.js · React · Laravel | End-to-end web applications built for clients and projects |
+| **ML Pipelines** | TensorFlow · PyTorch · OpenCV | Computer vision and predictive analytics systems |
+| **Data Engineering** | Pandas · SQL · Jupyter · Azure | ETL pipelines and data processing workflows |
 
 ---
 
-## 🏆 Certifications
+## Certifications
 
 | Badge | Certification |
 |-------|--------------|
